@@ -40,5 +40,5 @@ Class-Path: spring-web-4.3.11.RELEASE.jar stax-api-1.0.1.jar spring-bo
  .Final.jar spring-core-4.3.11.RELEASE.jar spring-session-data-redis-1
  .3.1.RELEASE.jar spring-data-commons-1.13.7.RELEASE.jar commons-lang3
  -3.5.jar
-Main-Class: com.javanoteany.Start
+Main-Class: hut.zj.Start
 

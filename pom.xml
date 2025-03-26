@@ -3,19 +3,19 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.javanoteany</groupId>
+	<groupId>hut.zj</groupId>
 	<artifactId>college_project_manager</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
 
 	<name>college_project_manager</name>
-	<description>基于SpringBoot+Vue的科研课题项目管理系统</description>
+	<description>基于SpringBoot项目管理系统</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.5.7.RELEASE</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath/>
 	</parent>
 
 	<properties>
